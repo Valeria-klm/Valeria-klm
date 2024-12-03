@@ -2,7 +2,7 @@
 I’m interested in web development, machine learning, and open-source projects.  
 - 🌱 I’m currently learning Python, JavaScript, and React.  
 - 💞️ I’m looking to collaborate on projects related to data science, AI, and full-stack development.  
-- 📫 How to reach me: You can reach me via email at varyvodavaleria@gmail.com or through my social media.  
+- 📫 How to reach me: You can reach me via email at varyvodavaleria715@gmail.com or through my social media.  
 - 😄 Pronouns: She/Her  
 - ⚡ Fun fact: I love hiking and exploring new places on the weekends!
 
